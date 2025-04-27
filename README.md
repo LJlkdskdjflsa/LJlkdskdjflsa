@@ -17,8 +17,8 @@ I am passionate about technology, innovation, and building impactful solutions.
 ![LJlkdskdjflsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LJlkdskdjflsa&show_icons=true&theme=default)
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/lj-li-9ab8071a4/)  
+- [Email](mailto:zengineerz00@gmail.com)
 
 ---
 

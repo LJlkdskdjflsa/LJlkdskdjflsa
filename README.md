@@ -9,7 +9,7 @@ I am passionate about technology, innovation, and building impactful solutions.
 - 🔭 Always looking to collaborate on exciting projects
 
 ## 📚 Skills
-- Programming: Python, Typescript, Java
+- Programming: Python, Typescript, Java, Rust
 - Frameworks: React, Nest.js, Django, FastAPI
 - Tools: Docker, Git, AWS, GCP
 
